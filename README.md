@@ -27,10 +27,10 @@ This series is designed to:
 To participate in the WriteTech DocReview Series, you must meet the following criteria:
 
 1. **Be a Member of the WriteTech Hub Community**  
-   If you're not already a part of our community, you can [**join here**](https://writetechhub.org/our-community/) and gain access to valuable resources, networking opportunities, and the chance to participate in community-driven initiatives like the DocReview Series.
+   If you're not already part of our community, you can [**join here**](https://writetechhub.org/our-community/) and gain access to valuable resources, networking opportunities, and the chance to participate in community-driven initiatives, such as the DocReview Series.
 
 2. **Technical Writing Experience**  
-   You must have experience in technical writing to ensure quality and consistency in reviews. This program is aimed at helping technical writers refine their skills while contributing to real-world documentation projects.
+   You must have experience in technical writing to ensure quality and consistency in reviews. This program is designed to help technical writers refine their skills while contributing to real-world documentation projects.
 
 3. **Commitment to Quality**  
    Each participant is expected to provide thorough, thoughtful, and constructive feedback in their reviews, following the provided template and guidelines.
